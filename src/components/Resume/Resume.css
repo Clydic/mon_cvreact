@@ -1,0 +1,7 @@
+div{
+    background-color: red;
+    display: flex;
+}
+:nth-child(2){
+    flex-direction: column;;
+}
